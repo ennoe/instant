@@ -8,12 +8,12 @@
     "build": "parcel build --global instantMeiliSearch index.html"
   },
   "dependencies": {
-    "@babel/core": "7.14.0",
+    "@babel/core": "7.25.2",
     "@meilisearch/instant-meilisearch": "0.10.1",
     "parcel-bundler": "1.12.5"
   },
   "devDependencies": {
-    "@babel/core": "7.2.0",
+    "@babel/core": "7.25.2",
     "parcel-bundler": "^1.6.1"
   },
   "keywords": []
